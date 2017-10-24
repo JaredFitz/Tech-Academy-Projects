@@ -361,7 +361,8 @@ BEGIN
 	FROM Book.Copies a
 		INNER JOIN Book.Authors b ON b.Auth_Book_id=a.Cop_Book_id
 		INNER JOIN Book.Book c ON c.Book_id = a.Cop_Book_id
-	 WHERE a.Cop_Branch_id = 'LB739213' 
+		INNER JOIN Library_Branch e ON a.Cop_Branch_id = e.Branch_id
+	 WHERE e.Branch_Name = 'Central' 
 	AND b.Auth_AuthorName = 'Stephen King';
 END
 
