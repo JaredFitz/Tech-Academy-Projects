@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Pizza Pizza!</title>
+
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!--/meta tags-->
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <link rel="stylesheet" href="./css/pizza_style.css">
+        <!--/bootstrap CSS-->
+    </head>
+    <body>
+        <!--Need to add the top part here.  Will start with just trying to figure out the accordian (bootstrap) for the ordering part-->
+
+
+
+        <!--accordian for the different ordering sections-->
+            <div id="accordion" role="tablist">
+                <!--size section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;"> 
+                        <div class="card-header" role="tab" id="headingSize">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseSize" aria-expanded="false" aria-controls="collapseSize">
+                                    Size
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseSize" class="collapse" role="tabpanel" aria-labelledby="headingSize" data-parent="#accordion">
+                            <div class="card-body accordian-body">
+                                    Insert options for SIZE here<br><br>
+
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes1" value="personal">
+                                            Personal ($6.00)
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes2" value="medium">
+                                            Medium ($10.00)
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes3" value="large">
+                                            Large ($14.00)
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes4" value="extraLarge" checked>
+                                            Extra Large ($16.00)
+                                        </label>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                <!--/size section of the accordian-->
+
+                <!--meat section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingMeat">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseMeat" aria-expanded="false" aria-controls="collapseMeat">
+                                    Meat
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseMeat" class="collapse" role="tabpanel" aria-labelledby="headingMeat" data-parent="#accordion">
+                            <div class="card-body accordian-body">
+                                    Choose as many meats as you'd like - first one is free! ($1.00 for each extra)
+
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat1">
+                                            Pepperoni
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat2">
+                                            Sausage
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat3">
+                                            Candian Bacon
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat4">
+                                            Ground Beef
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat5">
+                                            Anchovy
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value="meat6">
+                                            Chicken
+                                        </label>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                <!--/meat section of the accordian-->
+
+                <!--cheese section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingCheese">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseCheese" aria-expanded="false" aria-controls="collapseCheese">
+                                    Cheese
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseCheese" class="collapse" role="tabpanel" aria-labelledby="headingCheese" data-parent="#accordion">
+                            <div class="card-body">
+                                    Insert options for CHEESE here
+                            </div>
+                        </div>
+                    </div>
+                <!--/cheese section of the accordian-->
+
+                <!--crust section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingCrust">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseCrust" aria-expanded="false" aria-controls="collapseCrust">
+                                    Crust
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseCrust" class="collapse" role="tabpanel" aria-labelledby="headingCrust" data-parent="#accordion">
+                            <div class="card-body">
+                                    Insert options for CRUST here
+                            </div>
+                        </div>
+                    </div>
+                <!--/crust section of the accordian-->
+
+                <!--sauce section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingSauce">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseSauce" aria-expanded="false" aria-controls="collapseSauce">
+                                    Sauce
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseSauce" class="collapse" role="tabpanel" aria-labelledby="headingSauce" data-parent="#accordion">
+                            <div class="card-body">
+                                    Insert options for SAUCE here
+                            </div>
+                        </div>
+                    </div>
+                <!--/sauce section of the accordian-->
+
+                <!--veggies section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingVeggies">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseVeggies" aria-expanded="false" aria-controls="collapseVeggies">
+                                    Veggies
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseVeggies" class="collapse" role="tabpanel" aria-labelledby="headingVeggies" data-parent="#accordion">
+                            <div class="card-body">
+                                    Insert options for VEGGIES here
+                            </div>
+                        </div>
+                    </div>
+                <!--/veggies section of the accordian-->
+
+                <!--summary section of the accordian-->
+                    <div class="card red-bg" style="text-align: center;">
+                        <div class="card-header" role="tab" id="headingSummary">
+                            <h5 class="mb-0">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseSummary" aria-expanded="false" aria-controls="collapseSummary">
+                                    Summary
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseSummary" class="collapse" role="tabpanel" aria-labelledby="headingSummary" data-parent="#accordion">
+                            <div class="card-body">
+                                    Insert SUMMARY here with total cost
+                            </div>
+                        </div>
+                    </div>
+                <!--/summary section of the accordian-->
+            </div>
+        <!--/accordian for the different ordering sections-->   
+
+
+
+
+
+
+
+
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    </body>
+</html>

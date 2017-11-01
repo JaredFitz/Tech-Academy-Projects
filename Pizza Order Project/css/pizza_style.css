@@ -1,0 +1,16 @@
+.red-bg {
+    color: #000;
+    background-color: #991203;
+}
+
+.accordian-title {
+    color: #000;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 1.5em;
+}
+
+.accordian-body {
+    text-align: left;
+    display: inline-block;
+}
