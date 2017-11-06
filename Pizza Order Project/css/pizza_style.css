@@ -14,3 +14,37 @@
     text-align: left;
     display: inline-block;
 }
+
+#home {
+	background: url(../img/pizza.jpg) no-repeat 50% 50%;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	display: block;
+	height: auto;
+	padding-top: 250px; /* This is spacer before the main title logo */
+	padding-bottom: 250px; /* This is spacer after the main title logo */
+	color: #fff;
+}
+
+.head-main {
+	text-shadow: 2px 4px 5px rgba(0,0,0,0.9);
+	font-variant: small-caps;
+	color: #fff;
+	letter-spacing: 5pt;
+	word-spacing: 21pt;
+	font-size: 4em;
+	font-family: impact, sans-serif;
+	line-height: 2;
+	font-weight: 900;
+	border: 5px double #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.text-center {
+	text-align: center;
+}

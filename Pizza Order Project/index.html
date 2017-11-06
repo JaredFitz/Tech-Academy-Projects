@@ -22,6 +22,12 @@
         <!--Need to add the top part here.  Will start with just trying to figure out the accordian (bootstrap) for the ordering part-->
 
 
+        <div id="home">
+            <div class="text-center">
+                <span class="head-main">The Best Pizza Around!</span>
+            </div>
+        </div>
+
 
         <!--accordian for the different ordering sections-->
             <div id="accordion" role="tablist">
@@ -40,25 +46,25 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes1" value="personal">
+                                        <input class="form-check-input pizzaSizes" type="radio" name="radioSizes" id="radioSizes1" value="Personal Pizza">
                                         Personal ($6.00)
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes2" value="medium">
+                                        <input class="form-check-input pizzaSizes" type="radio" name="radioSizes" id="radioSizes2" value="Medium Pizza">
                                         Medium ($10.00)
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes3" value="large">
+                                        <input class="form-check-input pizzaSizes" type="radio" name="radioSizes" id="radioSizes3" value="Large Pizza">
                                         Large ($14.00)
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSizes" id="radioSizes4" value="extraLarge" checked>
+                                        <input class="form-check-input pizzaSizes" type="radio" name="radioSizes" id="radioSizes4" value="XL Pizza" checked>
                                         Extra Large ($16.00)
                                     </label>
                                 </div>
@@ -82,37 +88,37 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat1">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Pepperoni">
                                         Pepperoni
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat2">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Sausage">
                                         Sausage
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat3">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Candian Bacon">
                                         Candian Bacon
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat4">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Ground Beef">
                                         Ground Beef
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat5">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Anchovy">
                                         Anchovy
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="meat6">
+                                        <input class="form-check-input pizzaMeats" type="checkbox" value="Chicken">
                                         Chicken
                                     </label>
                                 </div>
@@ -136,19 +142,19 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCheeses" id="radioCheeses1" value="noCheese">
+                                        <input class="form-check-input pizzaCheeses" type="radio" name="radioCheeses" id="radioCheeses1" value="No Cheese">
                                         No Cheese
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCheeses" id="radioCheeses2" value="regularCheese" checked>
+                                        <input class="form-check-input pizzaCheeses" type="radio" name="radioCheeses" id="radioCheeses2" value="Regular Cheese" checked>
                                         Regular Cheese
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCheeses" id="radioCheeses3" value="extraCheese">
+                                        <input class="form-check-input pizzaCheeses" type="radio" name="radioCheeses" id="radioCheeses3" value="Extra Cheese (+$3.00)">
                                         Extra Cheese (+$3.00)
                                     </label>
                                 </div>
@@ -172,31 +178,31 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCrusts" id="radioCrusts1" value="plainCrust" checked>
+                                        <input class="form-check-input pizzaCrusts" type="radio" name="radioCrusts" id="radioCrusts1" value="Plain Crust" checked>
                                         Plain Crust
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCrusts" id="radioCrusts2" value="garlicButterCrust">
+                                        <input class="form-check-input pizzaCrusts" type="radio" name="radioCrusts" id="radioCrusts2" value="Garlic Butter Crust">
                                         Garlic Butter Crust
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCrusts" id="radioCrusts3" value="spicyCrust">
+                                        <input class="form-check-input pizzaCrusts" type="radio" name="radioCrusts" id="radioCrusts3" value="Spicy Crust">
                                         Spicy Crust
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCrusts" id="radioCrusts4" value="houseSpecialCrust">
+                                        <input class="form-check-input pizzaCrusts" type="radio" name="radioCrusts" id="radioCrusts4" value="House Special Crust">
                                         House Special Crust
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioCrusts" id="radioCrusts5" value="cheeseStuffedCrust">
+                                        <input class="form-check-input pizzaCrusts" type="radio" name="radioCrusts" id="radioCrusts5" value="Cheese Stuffed Crust (+$3.00)">
                                         Cheese Stuffed Crust (+$3.00)
                                     </label>
                                 </div>
@@ -220,25 +226,25 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSauces" id="radioSauces1" value="marinaraSauce" checked>
+                                        <input class="form-check-input pizzaSauces" type="radio" name="radioSauces" id="radioSauces1" value="Marinara Sauce" checked>
                                         Marinara Sauce
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSauces" id="radioSauces2" value="whiteSauce">
+                                        <input class="form-check-input pizzaSauces" type="radio" name="radioSauces" id="radioSauces2" value="White Sauce">
                                         White Sauce
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSauces" id="radioSauces3" value="barbequeSauce">
+                                        <input class="form-check-input pizzaSauces" type="radio" name="radioSauces" id="radioSauces3" value="Barbeque Sauce">
                                         Barbeque Sauce
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="radio" name="radioSauces" id="radioSauces4" value="noSauce">
+                                        <input class="form-check-input pizzaSauces" type="radio" name="radioSauces" id="radioSauces4" value="No Sauce">
                                         No Sauce
                                     </label>
                                 </div>
@@ -259,52 +265,52 @@
                         <div id="collapseVeggies" class="collapse" role="tabpanel" aria-labelledby="headingVeggies" data-parent="#accordion">
                             <div class="card-body accordian-body">
                                 <p style="font-size: 1.5em; font-weight: bold;">Choose as many veggies as you'd like - first one is free! ($1.00 for each extra):</p>
-
+                                
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie1">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Tomatoes">
                                         Tomatoes
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie2">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Onions">
                                         Onions
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie3">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Olives">
                                         Olives
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie4">
-                                        GreenPeppers
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Green Peppers">
+                                        Green Peppers
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie5">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Mushrooms">
                                         Mushrooms
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie6">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Pineapple">
                                         Pineapple
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie7">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Spinach">
                                         Spinach
                                     </label>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input class="form-check-input" type="checkbox" value="veggie8">
+                                        <input class="form-check-input pizzaVeggies" type="checkbox" value="Jalape&ntildeo">
                                         Jalape&ntildeo
                                     </label>
                                 </div>
@@ -313,20 +319,20 @@
                     </div>
                 <!--/veggies section of the accordian-->
 
-                <!--summary section of the accordian-->
+                <!--order section of the accordian-->
                     <div class="card red-bg" style="text-align: center;">
-                        <div class="card-header" role="tab" id="headingSummary">
+                        <div class="card-header" role="tab" id="headingOrder">
                             <h5 class="mb-0">
-                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseSummary" aria-expanded="false" aria-controls="collapseSummary">
+                                <a class="collapsed accordian-title" data-toggle="collapse" href="#collapseOrder" aria-expanded="false" aria-controls="collapseOrder">
                                     Order
                                 </a>
                             </h5>
                         </div>
-                        <div id="collapseSummary" class="collapse" role="tabpanel" aria-labelledby="headingSummary" data-parent="#accordion">
+                        <div id="collapseOrder" class="collapse" role="tabpanel" aria-labelledby="headingOrder" data-parent="#accordion">
                             <div class="card-body">
                                 <p style="font-size: 1.5em; font-weight: bold;">Thank you for visiting us!  Complete your order below and check back often for deals!</p>
-
-                                <button type="button" onclick="order();">Order</button>
+                                <button type="button" onclick="orderSize();">Order</button>
+                                <div id="finalSummary"></div>
                             </div>
                         </div>
                     </div>
@@ -334,18 +340,8 @@
             </div>
         <!--/accordian for the different ordering sections-->   
 
-        <script>
-        
-        
-        </script>
+        <script src="./js/js-pizza.js"></script>
 
-
-
-
-
-
-
-        <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
