@@ -1,0 +1,9 @@
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\bin\visualStudioTest.dll.config
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\bin\visualStudioTest.dll
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\bin\visualStudioTest.pdb
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\obj\Debug\visualStudioTest.csprojResolveAssemblyReference.cache
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\obj\Debug\visualStudioTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\obj\Debug\visualStudioTest.dll
+C:\Users\Student\myProjects\Tech-Academy-Projects\Visual Studio Testing\visualStudioTest\visualStudioTest\obj\Debug\visualStudioTest.pdb
