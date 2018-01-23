@@ -1,0 +1,1 @@
+Create a simple form using radio buttons.  Add 4 radio buttons with the labels of "Pencil", "Pen", "Phone", and "Tablet" and a final OK button.  When the OK button is clicked, display an image of the selected radio button.

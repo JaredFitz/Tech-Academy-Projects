@@ -1,0 +1,1 @@
+See challenge picture for an example of what the challenge will look like.

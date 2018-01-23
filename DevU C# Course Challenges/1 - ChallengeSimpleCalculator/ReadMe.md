@@ -1,0 +1,1 @@
+Create a simple calculator that has two inputs - two values that will have simple math done with them.  Add buttons for addition, subtraction, multiplication, and division.

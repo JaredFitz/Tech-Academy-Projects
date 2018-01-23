@@ -1,0 +1,1 @@
+Create an application with two calendars.  On the click of an OK button, calculate how many days are between the selected day on each calendar, regardless of which calendar has an earlier date selected.

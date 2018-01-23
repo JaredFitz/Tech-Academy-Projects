@@ -1,0 +1,1 @@
+Given two arrays, one of XMen names, and one of how many battles each of them have fought, find which of the XMen have fought the most battles, and who has fought the least battles.

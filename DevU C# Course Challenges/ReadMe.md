@@ -1,0 +1,1 @@
+These are the challenges from the DevU course "C# Fundamentals via ASP.NET Web Applications".  They vary in difficulty with the lower numbers being less challenging for the most part.  

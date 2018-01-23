@@ -1,0 +1,1 @@
+Recreate the classic card game "War".  Deal the cards to the players then play out the sequence of playing through the entire deck.  See screenshots for an example of how the results should look.
