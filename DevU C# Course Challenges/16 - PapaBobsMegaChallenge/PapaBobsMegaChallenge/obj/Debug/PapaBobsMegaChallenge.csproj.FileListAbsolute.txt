@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\bin\PapaBobsMegaChallenge.dll.config
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\bin\PapaBobsMegaChallenge.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\bin\PapaBobsMegaChallenge.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\obj\Debug\PapaBobsMegaChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\obj\Debug\PapaBobsMegaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\obj\Debug\PapaBobsMegaChallenge.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobsMegaChallenge\obj\Debug\PapaBobsMegaChallenge.pdb

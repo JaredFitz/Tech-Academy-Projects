@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\bin\Debug\MegaChallengeWar.exe.config
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\bin\Debug\MegaChallengeWar.exe
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\bin\Debug\MegaChallengeWar.pdb
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.Form1.resources
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.Properties.Resources.resources
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.exe
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\bin\Debug\System.ValueTuple.dll
+C:\Users\Student\Desktop\visualStudio\MegaChallengeWar\MegaChallengeWar\bin\Debug\System.ValueTuple.xml

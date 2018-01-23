@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\bin\ChallengeFirstPapaBobsPizza.dll.config
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\bin\ChallengeFirstPapaBobsPizza.dll
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\bin\ChallengeFirstPapaBobsPizza.pdb
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\obj\Debug\ChallengeFirstPapaBobsPizza.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\obj\Debug\ChallengeFirstPapaBobsPizza.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\obj\Debug\ChallengeFirstPapaBobsPizza.dll
+C:\Users\Student\Desktop\visualStudio\ChallengeFirstPapaBobsPizza\ChallengeFirstPapaBobsPizza\obj\Debug\ChallengeFirstPapaBobsPizza.pdb

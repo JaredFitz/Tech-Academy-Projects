@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\Student\Desktop\visualStudio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb

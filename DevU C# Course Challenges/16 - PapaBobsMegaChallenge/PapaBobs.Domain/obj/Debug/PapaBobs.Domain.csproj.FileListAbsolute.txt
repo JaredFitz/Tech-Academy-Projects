@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Student\Desktop\visualStudio\PapaBobsMegaChallenge\PapaBobs.Domain\bin\Debug\EntityFramework.xml

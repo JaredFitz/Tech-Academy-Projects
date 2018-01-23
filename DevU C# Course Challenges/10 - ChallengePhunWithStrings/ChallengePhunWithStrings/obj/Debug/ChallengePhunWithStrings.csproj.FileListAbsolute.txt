@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\Student\Desktop\visualStudio\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
