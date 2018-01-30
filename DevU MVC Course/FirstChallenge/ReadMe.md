@@ -1,0 +1,1 @@
+This is a basic challenge to start learning MVC.  The goal is to make a couple of views (Index and Detail) that shows information about some example comic books.
